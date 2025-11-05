@@ -1,3 +1,8 @@
+# リポジトリをforkする
+カリキュラムの都合上直接cloneを行うのではなく必ずご自身のアカウントにforkしてからcloneを行うようにしてください
+
+[![Image from Gyazo](https://t.gyazo.com/teams/startup-technology/de1385ab0a922e05bb55949f8a0e8ee8.gif)](https://startup-technology.gyazo.com/de1385ab0a922e05bb55949f8a0e8ee8)
+
 # 環境構築方法(Dockerを使用)
 
 ## コンテナイメージのビルド
